@@ -1,5 +1,5 @@
 {
-  "name": "ajv-merge-patch",
+  "name": "@relay/ajv-merge-patch",
   "version": "5.0.1",
   "description": "$merge and $patch keywords for Ajv JSON-Schema validator to extend schemas",
   "main": "index.js",
